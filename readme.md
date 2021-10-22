@@ -1,7 +1,7 @@
 # Dino Game
 A TEC Redshift game written using the Exapunks coding language (click to watch the short demo video)
 
-[![Dino Game Demo Video](docs\screenshot.png)](https://www.youtube.com/watch?v=_VK4LMyH1V8)
+[![Dino Game Demo Video](docs/screenshot.png)](https://www.youtube.com/watch?v=_VK4LMyH1V8)
 
 ---
 ## What in the world is going on?
