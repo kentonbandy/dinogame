@@ -18,7 +18,7 @@ Limited instructions for creating games for the Redshift are given in page 7-11 
 
 This game can be played in [Exapunks](https://store.steampowered.com/app/716490/EXAPUNKS/) or the [free TEC Redshift player](https://store.steampowered.com/app/948420/EXAPUNKS_TEC_Redshift_Player/). With the solution browser open in game, drag and drop the DINO GAME.png image into the browser.
 
-OR, with a little more setup, you can play this and other TEC Redshift games on any device that runs Retroarch! My friend [Travis](https://github.com/thieman) made an [emulator for the TEC Redshift](https://github.com/thieman/exa-rs) in rust which is totally insane and awesome. This game is featured in the demo video for the emulator :D
+OR, with a little more setup, you can play this and other TEC Redshift games on any device that runs Retroarch! My friend [Travis](https://github.com/thieman) made an [emulator for the TEC Redshift](https://github.com/thieman/exa-rs) in Rust which is totally insane and awesome. This game is featured in the demo video for the emulator :D
 
 To play using a keyboard, the enter key starts the game, and the W and S keys jump and crouch.
 
